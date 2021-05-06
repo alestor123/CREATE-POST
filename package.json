@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for create post in jekyll blog",
   "main": "App.js",
+  "bin": {
+    "create-post": "cli.js"
+  },
   "dependencies": {
     "chalk": "^4.1.1",
     "prompt-sync": "^4.2.0",
