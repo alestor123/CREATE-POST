@@ -1,6 +1,6 @@
 {
   "name": "create-post",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple code for create post in jekyll blog",
   "main": "App.js",
   "bin": {
