@@ -22,7 +22,7 @@
 
 # Installation
 
-``npm i web-env-manage -g ``
+``npm i create-post  -g ``
 
 # Usage
 
