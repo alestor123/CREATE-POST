@@ -19,6 +19,14 @@
     "type": "git",
     "url": "git+https://github.com/alestor123/CREATE-POST.git"
   },
+  "keywords": [
+	"nodejs",
+  "cli",
+  "yaml",
+  "blog",
+  "post",
+  "chalk"
+  ],
   "author": "Alestor Aldous",
   "license": "MIT",
   "bugs": {
